@@ -1,2 +1,2 @@
-# rishi-s8.github.io
-My Personal Website
+# My Personal Website
+Hosted at https://rishi-s8.github.io
